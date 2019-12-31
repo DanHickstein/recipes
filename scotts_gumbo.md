@@ -1,6 +1,8 @@
 # Scott's Gumbo
 
-A simple cajun gumbo with chicken and sausage. 
+A simple cajun gumbo with chicken and sausage, slightly modified from my friend Scott's recipe.
+
+<img src="https://user-images.githubusercontent.com/1107796/71626834-66f62c80-2bac-11ea-8a02-ffad7615b0d1.jpg" width="300">
 
 Ingredients
 -----------
@@ -8,7 +10,7 @@ Fresh
 * 8 chicken thighs
 * 1 lb andouille sausage, fresh pork is best. The better the sausage, the better the gumbo.
 * 1 yellow onion, chopped 
-* .5 green bell pepper, chopped
+* 1 green bell pepper, chopped
 * 1 deveined finely chopped jalepeno
 * 2-3 stalks celery, chopped
 * Chicken stock, 6-10 cups
