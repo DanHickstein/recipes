@@ -1,2 +1,3 @@
-# recipes
-Open Source Recipes
+# Dan's Recipes
+
+Some good recipes.
