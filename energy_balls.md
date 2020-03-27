@@ -6,11 +6,11 @@ These are basically cookies that don't require baking. They are simple, and a go
 
 Ingredients
 -----------
-* 2 cups rolled oats
-* 1 cup chocolate chips (or cut up a chocolate bar)
-* 1 cup of flaxseed meal
+* 2 cups rolled oats (180 g, 6.4 Oz)
+* 1 cup chocolate chips (175, 6.2 Oz)
+* 1 cup of flaxseed meal (100 g, 3.7 Oz)
 * 1 cup of crunchy peanut butter (use a scale for quick cleanup, this is 8.8 ounces or 250 grams)
-* 0.5 cup of honey (again, a scale is easier. This is 6 ounces or 170 g).
+* 0.5 cup of honey (again, a scale is easier. This is 6.0 ounces or 170 g).
 * 2 teaspoons of vanilla extract
 
 Method
