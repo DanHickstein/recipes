@@ -31,7 +31,7 @@ For the curry
 * 1 Tablespoon sugar
 * 2 teaspoons table salt
 * 1 cup heavy cream
-* 2 points chicken thighs
+* 2 pounds chicken thighs
 * 0.5 cups of plain Greek yogurt
 * 3 tablespoon cilantro
 
